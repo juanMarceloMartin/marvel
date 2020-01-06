@@ -1,0 +1,3 @@
+export const FETCH_CHARACTER = "FETCH_CHARACTER";
+export const FETCH_RANDOM = "FETCH_RANDOM";
+export const FETCH_COMICS = "FETCH_COMICS";
